@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# CalenFami
 
-You can use the [editor on GitHub](https://github.com/antmordhar/CalenFami/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+CalenFami es una app de gestión del tiempo familiar. haz que las tareas sean juegos para los miembros de tu familia y gana maravillosas recompensas. CalenFami te permite organizar tu calendario y el de tu familia para intentar sacar el maximo partido a tus horas libres. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Features
 
-### Markdown
+## Gestiona las tareas de tu familia
+<div align="center"><img src="./imagenes/Tareas.png"><img src="./imagenes/Grupos.png"></div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Organiza tus tareas cotidianas y tus escapadas de fin de semana con tu familia. El gestor de tareas y de grupos hará que el tedioso trabajo de organización familiar sean mas llevadero.**
 
-```markdown
-Syntax highlighted code block
+## Sacale Horas al día
 
-# Header 1
-## Header 2
-### Header 3
+<div align="center"><img src="./imagenes/CalendarioMensual.png"><img src="./imagenes/CalendarioSemanal.png"></div>
 
-- Bulleted
-- List
+**Evita las tareas imposibles de cumplir y los horarios ajustados con los calendarios inteligentes de CalenFami. Cree nuevas tareas rapidamente sobre un día tan solo pulsando sobre el**
 
-1. Numbered
-2. List
+## Compite con tus amigos
 
-**Bold** and _Italic_ and `Code` text
+<div align="center"><img src="./imagenes/Ranking.png"><img src="./imagenes/PerfilExterno.png"></div>
 
-[Link](url) and ![Image](src)
-```
+**Sigue a tus amigos y mira sus puntuaciones. Gana fantasticos premios siendo el el lider en los rankings globales y de tu pais.**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Personalizala a tu gusto
 
-### Jekyll Themes
+<div align="center"><img src="./imagenes/Perfil.png"></div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/antmordhar/CalenFami/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Sacale el maximo partido a la App con una extensa personalización de tu perfil**
 
-### Support or Contact
+# Contacto
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Para mas información puedes contacnarnos a traves del siguiente correo:**
+
+**calenfami@fakemail.cjn**

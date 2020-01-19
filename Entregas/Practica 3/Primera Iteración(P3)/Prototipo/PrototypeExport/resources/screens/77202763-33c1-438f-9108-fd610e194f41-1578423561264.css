@@ -1,0 +1,107 @@
+#s-77202763-33c1-438f-9108-fd610e194f41 > #backgroundBox {
+  background-color: transparent;
+  background-image: none;
+  position: absolute;
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 > #alignmentBox {
+  position: relative;
+  max-width: 360px;
+  max-height: 600px;
+  width: 100%;
+  height: 100%;
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 #s-Image_1 {
+  position: absolute;
+  width: 360px;
+  height: 597px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  padding-left: 0px;
+  padding-bottom: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 #s-Image_1 > img, #s-77202763-33c1-438f-9108-fd610e194f41 #s-Image_1 > svg {
+  height: 597px;
+  width: 360px;
+  box-shadow: none;
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_1 {
+  position: absolute;
+  width: 35px;
+  height: 44px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_1 > img, #s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_1 > svg {
+  height: 44px;
+  width: 35px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_2 {
+  position: absolute;
+  width: 263px;
+  height: 49px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_2 > img, #s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_2 > svg {
+  height: 49px;
+  width: 263px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_3 {
+  position: absolute;
+  width: 75px;
+  height: 75px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_3 > img, #s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_3 > svg {
+  height: 75px;
+  width: 75px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_4 {
+  position: absolute;
+  width: 76px;
+  height: 75px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_4 > img, #s-77202763-33c1-438f-9108-fd610e194f41 #s-Hotspot_4 > svg {
+  height: 75px;
+  width: 76px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-77202763-33c1-438f-9108-fd610e194f41 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
